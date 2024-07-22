@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcom! I'm Di Yue (<ruby>岳<rt>yuè</rt></ruby>
+Welcome! I'm Di Yue (<ruby>岳<rt>yuè</rt></ruby>
 <ruby>镝<rt>dí</rt></ruby>), 
 a junior student from [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), where I am honored to be advised by Prof. [Shaofeng Jiang](https://www.shaofengjiang.cn/).
 
