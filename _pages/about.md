@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcom! I'm Di Yue, a junior student from [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), where I am honored to be advised by Prof.[Shaofeng Jiang](https://www.shaofengjiang.cn/).
+Welcom! I'm Di Yue (岳镝), a junior student from [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), where I am honored to be advised by Prof.[Shaofeng Jiang](https://www.shaofengjiang.cn/).
 
 My research interest is theoretical computer science. Currently, I work on approximation algorithm, metric embedding and computational geometry.
 

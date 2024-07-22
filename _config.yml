@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Di Yue's Homepage"
+title                    : "Di Yue (岳镝)'s Homepage"
 title_separator          : "-"
 name                     : &name "Di Yue"
 description              : &description "CS undergrad from Peking University"
