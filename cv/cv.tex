@@ -1,0 +1,93 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage{amsmath,amsthm,amsfonts,amssymb}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Di Yue} % Your name
+% \address{xxx} % Your address
+\address{Github: https://github.com/tnediserp} % Your secondary addess (optional)
+\address{Tel: (+86)18380578521} % Tel
+\address{Email: di\_yue@stu.pku.edu.cn} % Email
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Peking University} \hfill {Beijing, China} 
+\\ Candidate for Bachelor of Science \hfill {\em September 2021 - Present}
+\\ School of Electronics Engineering And Computer Science
+\\ GPA: 3.83/4.0
+
+%Minor in Linguistics \smallskip \\
+%Member of Eta Kappa Nu \\
+%Member of Upsilon Pi Epsilon \\
+
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research Interests}{}
+Theoretical Computer Science, Algorithm Design and Analysis, Computational Geometry, Metric Embedding.
+\end{rSection}
+
+\begin{rSection}{Publications}{(In theoretical computer science, authors are listed in alphabetical order.)}
+    \begin{center}
+        {\bf Submitted}
+    \end{center}
+
+    \begin{pubSubsection}{Near-Optimal Dimension Reduction for Facility Location}
+        \item Lingxiao Huang, Shaofeng H.-C. Jiang, Robert Krauthgamer, Di Yue.
+        \item Submitted to the 36th ACM-SIAM Symposium on Discrete Algorithms (SODA 2025).
+    \end{pubSubsection}
+\end{rSection}
+
+\begin{rSection}{Research Experience}{}
+    \begin{rSubsection}{Near-Optimal Dimension Reduction for Facility Location}{July 2023 - July 2024}{Academic Advisor: Shaofeng Jiang}{Peking University, China}
+       \item We proved that target dimension $m = \tilde{O}(\varepsilon^{-2} \mathrm{ddim})$ suffices to $(1+\varepsilon)$-approximate the optimal value of \emph{uniform facility location (UFL)} on high-dimensional inputs whose \emph{doubling dimension} is bounded by $\mathrm{ddim}$.
+       \item We proposed the first PTAS for Euclidean UFL on doubling subsets, where the facilities are allowed to lie in the (high-dimensional) ambient space $\mathbb{R}^d$.
+       \item We generalized our PTAS to doubling metrics without vector representations, which improves the $2^{2^{O(\mathrm{ddim^2})}} n$ running time in [Cohen-Addad, Feldmann and Saulpic, JACM 2021] to $2^{2^{\tilde O(\mathrm{ddim})}} n$.
+       \item This work is submitted to {\bf SODA 2025}.
+    \end{rSubsection}
+
+    \begin{rSubsection}{Preserving the Diameter via Dimension Reduction}{January 2023 - April 2023}{Academic Advisor: Shaofeng Jiang}{Peking University, China}
+        \item We proved that target dimension $m = O(\varepsilon^{-2} \mathrm{ddim})$ suffices to $(1+\varepsilon)$-approximate the diameter of a high-dimensional doubling subset whose \emph{doubling dimension} is bounded by $\mathrm{ddim}$.
+        \item Our result immediately implies a streaming algorithm that approximates diameter.
+    \end{rSubsection}
+\end{rSection}
+
+\begin{rSection}{Honours and Awards}{}
+    Second Class Scholarship of Peking University (10\%) \dotfill{2022}
+    \\ Merit Student (10\%) \dotfill{2022}
+    \\ Study Excellence Award (20\%) \dotfill{2023}
+\end{rSection}
+
+\end{document}
