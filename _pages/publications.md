@@ -25,7 +25,6 @@ Submitted
 - **Near-Optimal Dimension Reduction for Facility Location**  
   Lingxiao Huang, Shaofeng H.-C. Jiang, Robert Krauthgamer, **Di Yue** <br>
   Submitted.
-<!-- 
   <details><summary style="color:#7C4700">Abstract</summary>
   <font color = "7C4700">
   Oblivious dimension reduction, a l\`{a}  the Johnson-Lindenstrauss (JL) Lemma, is a fundamental approach for processing high-dimensional data. We study this approach for Uniform Facility Location (UFL)on a Euclidean input $X\subset\mathbb{R}^d$, where facilities can lie in the ambient space (not restricted to $X$). Our main result is that target dimension $m=\tilde{O}(\epsilon^{-2}\mathrm{ddim})$ suffices to $(1+\epsilon)$-approximate the optimal value of UFL on inputs whose doubling dimension is bounded by $\mathrm{ddim}$. Previous results could only achieve 
@@ -50,8 +49,7 @@ Submitted
   and while inspired by [Czumaj, Lammersen, Monemizadeh and Sohler, SODA 2013],
   it has several significant differences.<br>
   </font>
-  </details> 
--->
+  </details>
 
 Manuscripts
 ------
