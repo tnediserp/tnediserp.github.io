@@ -20,6 +20,7 @@ Published
 
 Submitted
 ------
+<!-- Submitted papers -->
 
 - **Near-Optimal Dimension Reduction for Facility Location**  
   Lingxiao Huang, Shaofeng H.-C. Jiang, Robert Krauthgamer, **Di Yue** <br>
