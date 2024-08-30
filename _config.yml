@@ -21,7 +21,7 @@ repository               : "tnediserp/tnediserp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "weiming.png"
+  avatar           : "profile.png"
   name             : "Di Yue"
   pronouns         : # example: "she/her"  
   bio              : "CS undergrad from Peking University"
