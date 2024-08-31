@@ -13,7 +13,4 @@ a senior student from [School of Electronics Engineering and Computer Science (E
 
 My research interest lies in theoretical computer science, especially computational problems in geometric setting. Currently, I am working on dimension reduction for geometric problems.
 
-I am seeking for a Ph.D position in TCS starting from Fall 2025. Feel free to contact me through email. Your suggestions are of utmost importance to me.
-
-
-<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=L-0U-7RV3OL2iMHe2mG3zJynCLKtp4M184f9lWZ-o9o"></script> -->
+I'm seeking for a Ph.D position starting from Fall 2025 in the field of TCS. Please feel free to contact me through email. Your kind suggestions are of utmost importance to me.
