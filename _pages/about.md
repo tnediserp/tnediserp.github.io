@@ -17,7 +17,7 @@ Currently, I am working on dimension reduction for geometric optimization proble
 
 I'm actively seeking for a Ph.D. position starting from Fall 2025 in the field of TCS.
 Please feel free to contact me via email. 
-Your kind suggestions are of utmost importance to me.
+<!-- Your kind suggestions are of utmost importance to me. -->
 
 ## News
 - [Oct. 2024] One paper got rejected by [SODA 2025](https://www.siam.org/conferences-events/siam-conferences/soda25/).
