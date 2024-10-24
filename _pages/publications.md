@@ -18,7 +18,7 @@ author_profile: true
 
 - **Near-Optimal Dimension Reduction for Facility Location**  
   Lingxiao Huang, Shaofeng H.-C. Jiang, Robert Krauthgamer, **Di Yue** <br>
-  Working paper. <br>
+  Manuscript. <br>
   [[slides](/files/dim_reduction_FL/FL_talk_Weizmann.pdf)]
   <details><summary>Abstract</summary>
   <font size=2>
