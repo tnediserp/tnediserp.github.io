@@ -36,7 +36,7 @@
 % CUSTOM COMMANDS
 %-------------------------------------------------------------------------------
 \definecolor{mygray}{gray}{0.8}
-\hypersetup{colorlinks=true,allcolors=blue}
+% \hypersetup{colorlinks=true,allcolors=blue}
 
 %----------------------------------------------------------------------------------------
 %	HEADINGS COMMANDS: Commands for printing name and address
