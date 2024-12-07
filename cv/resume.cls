@@ -117,7 +117,7 @@
   %\medskip
 
   % \MakeUppercase{\bf #1} % Section title
-  \sectionlineskip
+  % \sectionlineskip
   % \hrule % Horizontal line
   \begin{list}{}{ % List for each individual item in the section
     \setlength{\leftmargin}{0.5em} % Margin within the section
@@ -141,7 +141,7 @@
    \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
   }{
   \end{list}
-  \vspace{0.5em} % Some space after the list of bullet points
+  % \vspace{0.5em} % Some space after the list of bullet points
 }
 
 %-------------------------------------------------------------------------------
@@ -158,7 +158,7 @@
 }
 {
   \end{list}
-  \vspace{0.5em}
+  % \vspace{0.5em}
 }
 
 % The below commands define the whitespace after certain things in the document - they can be \smallskip, \medskip or \bigskip
