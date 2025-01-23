@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: simple
 title: "Miscellaneous"
 permalink: /miscs/
 author_profile: false
