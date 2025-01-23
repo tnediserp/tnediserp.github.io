@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Miscellaneous"
 permalink: /miscs/
 author_profile: false
