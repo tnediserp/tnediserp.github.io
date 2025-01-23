@@ -2,7 +2,7 @@
 layout: archive
 title: "Miscellaneous"
 permalink: /miscs/
-author_profile: true
+author_profile: false
 ---
 
 - [*How to do theoretical research*](https://drive.google.com/file/d/15VaTSbMiTUleuEcDoMi-yS4RPVFcSAaB/view) by Ankur Moitra

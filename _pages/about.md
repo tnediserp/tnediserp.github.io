@@ -15,9 +15,9 @@ In summer 2024, I spent a wonderful month visiting [Weizmann Institute of Scienc
 My research interest lies in theoretical computer science, especially computational problems in geometric settings.
 Currently, I am working on dimension reduction for geometric optimization problems.
 
-I'm actively seeking for a Ph.D. position starting from Fall 2025 in the field of TCS.
+I'm actively seeking for Ph.D. opportunities starting from Fall 2025 in the field of TCS.
 Please feel free to contact me via email. 
-<!-- Your kind suggestions are of utmost importance to me. -->
+
 
 ## News
 - [Nov. 2024] Our paper *"Near-Optimal Dimension Reduction for Facility Location"* is available on [arXiv](https://arxiv.org/abs/2411.05432).
