@@ -2,7 +2,7 @@
 layout: archive
 title: "Honors and Awards"
 permalink: /awards/
-author_profile: true
+author_profile: false
 ---
 
 - **Second Class Scholarship of Peking University** (2022)
