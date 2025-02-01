@@ -20,5 +20,6 @@ Please feel free to contact me via email.
 
 
 ## News
+- [Feb. 2025] Our paper *"Near-Optimal Dimension Reduction for Facility Location"* is accepted to [STOC 2025](https://acm-stoc.org/stoc2025/).
 - [Nov. 2024] Our paper *"Near-Optimal Dimension Reduction for Facility Location"* is available on [arXiv](https://arxiv.org/abs/2411.05432).
 - [Oct. 2024] One paper got rejected by [SODA 2025](https://www.siam.org/conferences-events/siam-conferences/soda25/).
