@@ -5,6 +5,7 @@ permalink: /miscs/
 author_profile: false
 ---
 
+- [Recent Progress on Euclidean (and Related) Spanners](https://simons.berkeley.edu/sites/default/files/2024-08/Hung%20Le_SA24-2%20Slides.pdf) by Hung Le
 - [*How to do theoretical research*](https://drive.google.com/file/d/15VaTSbMiTUleuEcDoMi-yS4RPVFcSAaB/view) by Ankur Moitra
 - [Advances on Metric Embeddings (FOCS 2022 Workshop)](https://hackmd.io/@3S70qBUwTR6_CErLY2dm4A/SJfp46KGi)
 - [*Applying to Ph.D. Programs in Computer Science*](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) by Mor Harchol-Balter

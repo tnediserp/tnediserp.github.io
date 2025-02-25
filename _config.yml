@@ -22,11 +22,11 @@ repository               : "tnediserp/tnediserp.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  ava_description  : "Photoed by Rui Guo"
+  ava_description  : "Photo by Rui Guo"
   name             : "Di Yue"
   pronouns         : # example: "she/her"  
-  bio              : "CS undergrad from Peking University"
-  location         : "Beijing, China"
+  bio              : "CS undergrad at Peking University"
+  location         : # "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
   email            : "di_yue@stu.pku.edu.cn" 
