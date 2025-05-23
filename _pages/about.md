@@ -19,6 +19,7 @@ Hopefully I will start doing my Ph.D. this fall in the [theory group](https://ww
 
 
 ## News
+- [May. 2025] My thesis has been nominated for the *Top 10 Undergraduate Thesis* by [School of EECS](https://eecs.pku.edu.cn/).
 - [Feb. 2025] Our paper *"Near-Optimal Dimension Reduction for Facility Location"* is accepted to [STOC 2025](https://acm-stoc.org/stoc2025/).
 - [Nov. 2024] Our paper *"Near-Optimal Dimension Reduction for Facility Location"* is available on [arXiv](https://arxiv.org/abs/2411.05432).
 - [Oct. 2024] One paper got rejected by [SODA 2025](https://www.siam.org/conferences-events/siam-conferences/soda25/).
