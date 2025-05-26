@@ -15,7 +15,7 @@ In summer 2024, I spent a wonderful month visiting [Weizmann Institute of Scienc
 My research interest lies in theoretical computer science, especially computational problems in geometric settings.
 Currently, I am working on dimension reduction for geometric optimization problems.
 
-Hopefully I will start doing my Ph.D. this fall in the [theory group](https://www.cs.toronto.edu/theory/) at University of Toronto, under the supervision of [Sasho Nikolov](https://www.cs.toronto.edu/~anikolov/).
+Hopefully I will soon start doing my Ph.D. in the [theory group](https://www.cs.toronto.edu/theory/) at University of Toronto, under the supervision of [Sasho Nikolov](https://www.cs.toronto.edu/~anikolov/).
 
 
 ## News
