@@ -20,7 +20,7 @@ author_profile: false
   Lingxiao Huang, Shaofeng H.-C. Jiang, Robert Krauthgamer, **Di Yue** <br>
   Accepted to [*STOC 2025*](https://acm-stoc.org/stoc2025/). <br>
   [[arXiv](https://arxiv.org/abs/2411.05432)]
-  [[slides](/files/dim_reduction_FL/FL_talk_Weizmann.pdf)]
+  [[slides](/files/dim_reduction_FL/FL_talk_STOC.pdf)]
   <details><summary>Abstract</summary>
   <font size=2>
   Oblivious dimension reduction, à la the Johnson-Lindenstrauss (JL) Lemma,
