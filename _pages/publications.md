@@ -18,7 +18,7 @@ author_profile: false
 
 - **Near-Optimal Dimension Reduction for Facility Location**  
   Lingxiao Huang, Shaofeng H.-C. Jiang, Robert Krauthgamer, **Di Yue** <br>
-  In proceeding of [*STOC 2025*](https://acm-stoc.org/stoc2025/). <br>
+  In Proceedings of [STOC 2025](https://acm-stoc.org/stoc2025/). <br>
   [[doi](https://dl.acm.org/doi/10.1145/3717823.3718214)]
   [[arXiv](https://arxiv.org/abs/2411.05432)]
   [[slides](/files/dim_reduction_FL/FL_talk_STOC.pdf)]
