@@ -18,9 +18,11 @@ author_profile: false
 
 - **Near-Optimal Dimension Reduction for Facility Location**  
   Lingxiao Huang, Shaofeng H.-C. Jiang, Robert Krauthgamer, **Di Yue** <br>
-  Accepted to [*STOC 2025*](https://acm-stoc.org/stoc2025/). <br>
+  In proceeding of [*STOC 2025*](https://acm-stoc.org/stoc2025/). <br>
+  [[doi](https://dl.acm.org/doi/10.1145/3717823.3718214)]
   [[arXiv](https://arxiv.org/abs/2411.05432)]
   [[slides](/files/dim_reduction_FL/FL_talk_STOC.pdf)]
+  [[video](https://www.youtube.com/watch?v=L0xXUzmzltw&list=PL2200vk1q4pnCq8BwJXwnD6SohMwST6aY&index=88&t=4s)]
   <details><summary>Abstract</summary>
   <font size=2>
   Oblivious dimension reduction, à la the Johnson-Lindenstrauss (JL) Lemma,
