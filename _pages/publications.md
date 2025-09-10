@@ -14,9 +14,43 @@ author_profile: false
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+In theoretical computer science, authors are listed in alphabetical order.
 
+- **Dimension Reduction for Clustering: The Curious Case of Discrete Centers** <br>
+  Shaofeng H.-C. Jiang, Robert Krauthgamer, Shay Sapir, Sandeep Silwal, **Di Yue** <br>
+  Manuscript. <br>
+  [[arXiv](https://arxiv.org/abs/2509.07444)]
+  <details><summary>Abstract</summary>
+  <font size=2>
+  The Johnson-Lindenstrauss transform is a fundamental method for dimension
+  reduction in Euclidean spaces, that can map any dataset of $n$ points into
+  dimension $O(\log n)$ with low distortion of their distances. This dimension
+  bound is tight in general, but one can bypass it for specific problems. Indeed,
+  tremendous progress has been made for clustering problems, especially in the
+  \emph{continuous} setting where centers can be picked from the ambient space
+  $\mathbb{R}^d$. Most notably, for $k$-median and $k$-means, the dimension bound
+  was improved to $O(\log k)$ [Makarychev, Makarychev and Razenshteyn, STOC
+  2019]. <br><br>
 
-- **Near-Optimal Dimension Reduction for Facility Location**  
+  We explore dimension reduction for clustering in the \emph{discrete} setting,
+  where centers can only be picked from the dataset, and present two results that
+  are both parameterized by the doubling dimension of the dataset, denoted as
+  $\operatorname{ddim}$. The first result shows that dimension
+  $O_{\epsilon}(\operatorname{ddim} + \log k + \log\log n)$ suffices, and is
+  moreover tight, to guarantee that the cost is preserved within factor
+  $1\pm\epsilon$ for every set of centers. Our second result eliminates the
+  $\log\log n$ term in the dimension through a relaxation of the guarantee
+  (namely, preserving the cost only for all approximately-optimal sets of
+  centers), which maintains its usefulness for downstream applications. <br><br>
+
+  Overall, we achieve strong dimension reduction in the discrete setting, and
+  find that it differs from the continuous setting not only in the dimension
+  bound, which depends on the doubling dimension, but also in the guarantees
+  beyond preserving the optimal value, such as which clusterings are preserved.
+  </font>
+  </details>
+
+- **Near-Optimal Dimension Reduction for Facility Location**  <br>
   Lingxiao Huang, Shaofeng H.-C. Jiang, Robert Krauthgamer, **Di Yue** <br>
   In Proceedings of [STOC 2025](https://acm-stoc.org/stoc2025/). <br>
   [[doi](https://dl.acm.org/doi/10.1145/3717823.3718214)]
