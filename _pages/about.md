@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Di Yue <ruby>岳<rt>yuè</rt></ruby> <ruby>镝<rt>dí</rt></ruby>"
+title: "Di Yue &nbsp; &nbsp; <ruby>岳<rt>yuè</rt></ruby> <ruby>镝<rt>dí</rt></ruby>"
 author_profile: true
 redirect_from: 
   - /about/
