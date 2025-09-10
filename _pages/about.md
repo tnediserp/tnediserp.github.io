@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Di Yue (<ruby>岳<rt>yuè</rt></ruby> <ruby>镝<rt>dí</rt></ruby>)"
+title: "Di Yue <ruby>岳<rt>yuè</rt></ruby> <ruby>镝<rt>dí</rt></ruby>"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,6 +24,7 @@ Hopefully I will soon start doing my Ph.D. in the [theory group](https://www.cs.
 
 
 ## News
+- [Sep. 2025] Our paper "Dimension Reduction for Clustering: The Curious Case of Discrete Centers" is available on [arXiv](https://arxiv.org/abs/2509.07444).
 - [May. 2025] My thesis has been nominated for the [*Top 10 Undergraduate Thesis*](https://eecs.pku.edu.cn/info/1046/7062.htm) by School of EECS.
 - [Feb. 2025] Our paper *"Near-Optimal Dimension Reduction for Facility Location"* is accepted to [STOC 2025](https://acm-stoc.org/stoc2025/).
 - [Nov. 2024] Our paper *"Near-Optimal Dimension Reduction for Facility Location"* is available on [arXiv](https://arxiv.org/abs/2411.05432).
