@@ -17,7 +17,9 @@ author_profile: false
 In theoretical computer science, authors are listed in alphabetical order.
 
 
-1. **Dimension Reduction for Clustering: The Curious Case of Discrete Centers** <br>
+<ul style="list-style:none;" markdown="1">
+<li>
+**Dimension Reduction for Clustering: The Curious Case of Discrete Centers** <br>
 Shaofeng H.-C. Jiang, Robert Krauthgamer, Shay Sapir, Sandeep Silwal, **Di Yue**. <br>
 Manuscript. <br>
 [[arXiv](https://arxiv.org/abs/2509.07444)]
@@ -50,8 +52,10 @@ bound, which depends on the doubling dimension, but also in the guarantees
 beyond preserving the optimal value, such as which clusterings are preserved.
 </font>
 </details>
+</li>
 
-2. **Near-Optimal Dimension Reduction for Facility Location**  <br>
+<li>
+**Near-Optimal Dimension Reduction for Facility Location**  <br>
   Lingxiao Huang, Shaofeng H.-C. Jiang, Robert Krauthgamer, **Di Yue**. <br>
   In Proceedings of [STOC 2025](https://acm-stoc.org/stoc2025/). <br>
   [[doi](https://dl.acm.org/doi/10.1145/3717823.3718214)]
@@ -92,3 +96,6 @@ beyond preserving the optimal value, such as which clusterings are preserved.
   and is key to both our dimension reduction and our PTAS. <br>
   </font>
   </details>
+</li>
+
+</ul>
