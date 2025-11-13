@@ -17,9 +17,9 @@ author_profile: false
 In theoretical computer science, authors are listed in alphabetical order.
 
 - **Dimension Reduction for Clustering: The Curious Case of Discrete Centers** <br>
-Shaofeng H.-C. Jiang, Robert Krauthgamer, Shay Sapir, Sandeep Silwal, **Di Yue**. <br>
-Manuscript. <br>
-[[arXiv](https://arxiv.org/abs/2509.07444)]
+  Shaofeng H.-C. Jiang, Robert Krauthgamer, Shay Sapir, Sandeep Silwal, **Di Yue**. <br>
+  Accepted to [ITCS 2026](http://itcs-conf.org/). <br>
+  [[arXiv](https://arxiv.org/abs/2509.07444)]
   <details><summary>Abstract</summary>
   <font size=2>
   The Johnson-Lindenstrauss transform is a fundamental method for dimension
