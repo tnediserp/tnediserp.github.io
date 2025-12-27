@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a visiting student at [University of Cologne](https://www.uni-koeln.de/en/), hosted by Prof. [Christian Sohler](https://cs.uni-koeln.de/ls-sohler/team/prof-dr-christian-sohler).
-Previously, I obtained my BS degree from [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
+I am a visiting student at [Nanjing University](https://tcs.nju.edu.cn/), hosted by Prof. [Lingxiao Huang](https://sites.google.com/site/lingxiaohuang1990).
+Previously, I obtained my BS degree from [Peking University](https://www.pku.edu.cn/) in 2025.
 During my undergraduate years, I worked closely with Professors [Shaofeng Jiang](https://www.shaofengjiang.cn/), [Robert Krauthgamer](https://www.wisdom.weizmann.ac.il/~robi/) and [Lingxiao Huang](https://sites.google.com/site/lingxiaohuang1990).
 
 <!-- Welcome! I'm Di Yue (<ruby>岳<rt>yuè</rt></ruby>
