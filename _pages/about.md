@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in the [theory group](https://www.cs.toronto.edu/theory/) at University of Toronto, fortunate to be advised by Prof. [Aleksandar (Sasho) Nikolov](https://www.cs.toronto.edu/~anikolov/).
+I am an incoming PhD student in the [theory group](https://www.cs.toronto.edu/theory/) at [University of Toronto](https://www.utoronto.ca/), fortunate to be advised by Prof. [Aleksandar Nikolov](https://www.cs.toronto.edu/~anikolov/).
 Previously, I obtained my BS degree from [Peking University](https://www.pku.edu.cn/) in 2025.
 During my undergraduate years, I worked closely with Professors [Shaofeng Jiang](https://www.shaofengjiang.cn/), [Robert Krauthgamer](https://www.wisdom.weizmann.ac.il/~robi/) and [Lingxiao Huang](https://sites.google.com/site/lingxiaohuang1990).
 Here is my [CV](/cv/cv_Di_Yue.pdf).
