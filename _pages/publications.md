@@ -18,7 +18,7 @@ In theoretical computer science, authors are listed in alphabetical order.
 
 - **Near Linear Time Approximation Schemes for Clustering of Partially Doubling Metrics** <br>
   Anne Driemel, Jan Höckendorff, Ioannis Psarros, Christian Sohler, **Di Yue**. <br>
-  Manuscript, March 2026. <br>
+  To Appear in [ICALP 2026](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/). <br>
   [[arXiv](https://arxiv.org/abs/2603.24336)]
   <details><summary>Abstract</summary>
   <font size=2>

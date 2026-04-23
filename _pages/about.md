@@ -17,15 +17,14 @@ Here is my [CV](/cv/cv_Di_Yue.pdf).
 a fourth-year undergraduate student at [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), where I am fortunate to be advised by Prof. [Shaofeng Jiang](https://www.shaofengjiang.cn/).
 In summer 2024, I spent a wonderful month visiting [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/), where I had the privilege of working with Prof. [Robert Krauthgamer](https://www.wisdom.weizmann.ac.il/~robi/). -->
 
+
+## Research
 My research interest lies in theoretical computer science, with a current focus on discrepancy theory.
 I also like computational problems related to metric spaces and high-dimensional geometry.
 Concrete topics include dimension reduction, metric embeddings and
 approximation algorithms.
 See my [publications](/publications/).
 
+## Contact
+Email: diyue AT cs DOT toronto DOT edu
 
-
-## News
-- [Nov. 2025] "Dimension Reduction for Clustering: The Curious Case of Discrete Centers" is accepted to [ITCS 2026](http://itcs-conf.org/).
-- [Sep. 2025] Our paper "Dimension Reduction for Clustering: The Curious Case of Discrete Centers" is available on [arXiv](https://arxiv.org/abs/2509.07444).
-- [May. 2025] My thesis has been nominated for the [*Top 10 Undergraduate Thesis*](https://eecs.pku.edu.cn/info/1046/7062.htm) by School of EECS.

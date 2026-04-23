@@ -23,13 +23,13 @@ author:
   # Biographic information
   avatar           : "profile.png"
   ava_description  : "Photo by Rui Guo"
-  name             : "Di Yue"
+  name             : # "Di Yue"
   pronouns         : # example: "she/her"  
   bio              : # "CS undergrad at Peking University"
   location         : # "Beijing, China"
   employer         : # "Peking University"
   uri              : # URL
-  email            : "diyue@cs.toronto.edu" 
+  email            : # "diyue@cs.toronto.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
