@@ -16,10 +16,31 @@ author_profile: false
 {% endfor %} -->
 In theoretical computer science, authors are listed in alphabetical order.
 
+- **A Fast and Simple $(1+\epsilon)$-Approximation for Minimum Spanning Trees in Doubling Metrics** <br>
+  Jan Höckendorff, Felix Hommelsheim, Christian Sohler, **Di Yue**. <br>
+  Manuscript, July 2026. <br>
+  [[arXiv](https://arxiv.org/abs/2607.13284)]
+  <details><summary>Abstract</summary>
+  <font size=2>
+  The minimum spanning tree (MST) problem is one of the most basic optimization problems on metric spaces and graphs.
+  We study the problem of computing a $(1+\epsilon)$-approximation to the MST of an $n$-point metric space $(X,\mathbf{d})$ of doubling dimension $\mathrm{ddim}$.
+  In doubling metrics, previous deterministic algorithms incur a running time with dependence $\epsilon^{-O(\mathrm{ddim})}$. <br><br>
+
+  We give a deterministic algorithm that computes a $(1+\epsilon)$-approximation to MST in time
+  $2^{O(\mathrm{ddim})} n \bigl(\log n + \epsilon^{-1} \log^4(1/\epsilon)\bigr)$.
+  For bounded doubling dimension, this improves the previous dependence on $\epsilon$ from $\epsilon^{-O(\mathrm{ddim})}$ to essentially linear in $\epsilon^{-1}$.
+  Moreover, as a special case, our result improves the previous best deterministic running time for bounded-dimensional Euclidean metrics due to Arya and Mount~[SODA'16] by almost a factor of $\epsilon^{-1}$.
+  We also show that, unlike in bounded-dimensional Euclidean spaces, MSTs in bounded doubling metrics can have arbitrarily large maximum degree, while every doubling metric nevertheless admits a $(1+\epsilon)$-approximate MST of maximum degree $2^{O(\mathrm{ddim})}\log(1/\epsilon)$.
+  </font>
+  </details>
+
 - **Near Linear Time Approximation Schemes for Clustering of Partially Doubling Metrics** <br>
   Anne Driemel, Jan Höckendorff, Ioannis Psarros, Christian Sohler, **Di Yue**. <br>
   To Appear in [ICALP 2026](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/). <br>
+  [[doi](https://doi.org/10.4230/LIPIcs.ICALP.2026.80)]
   [[arXiv](https://arxiv.org/abs/2603.24336)]
+  [[slides](/files/slides_partial_doubling_kmedian.pdf)]
+  [[talk (in Chinese)](https://www.bilibili.com/video/BV1617r6eEdZ/?spm_id_from=333.337.search-card.all.click&vd_source=dc4f2fdf1b079c7da892fad8f65ffc9e)]
   <details><summary>Abstract</summary>
   <font size=2>
   In the metric $k$-median problem we are given a finite metric space $(X\cup Y, \mathbf{d})$ and the objective is to compute a set of $k$ centers $C\subseteq Y$ that minimizes $\sum_{p\in X} \min_{c\in C} \mathbf{d}(p,c)$. In general metric spaces, the 
